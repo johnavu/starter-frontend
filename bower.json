@@ -1,0 +1,21 @@
+{
+  "name": "masonry",
+  "description": "Front End",
+  "main": "index.html",
+  "authors": [
+    "TruongCong Pham"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "bootstrap": "^3.3.6"
+  }
+}
